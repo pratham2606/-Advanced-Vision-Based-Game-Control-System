@@ -1,4 +1,5 @@
 Advanced Vision-Based Game Control System:
+
 This project implements an advanced, real-time movement detection and gesture-based game control interface, utilizing state-of-the-art computer vision techniques. It employs pose estimation algorithms to capture and interpret user hand gestures, subsequently mapping these gestures to corresponding keystrokes. The solution provides an entirely hands-free mechanism for game control, leveraging the precision of OpenCV and Mediapipe for pose tracking and pyautogui for emulating keyboard interactions.
 
 Key Features
